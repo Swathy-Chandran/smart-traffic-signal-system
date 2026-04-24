@@ -30,3 +30,6 @@ Improves traffic flow, reduces delays for emergency vehicles, and monitors envir
 <img width="720" height="441" alt="output3" src="https://github.com/user-attachments/assets/1e975325-9dbf-464e-bd65-098e49d1af00" />
 <img width="720" height="580" alt="output2" src="https://github.com/user-attachments/assets/c253df92-2f16-4d27-bc67-0a99edacfa80" />
 <img width="720" height="405" alt="output1" src="https://github.com/user-attachments/assets/410f4770-bae4-47d6-b464-791b07309e3f" />
+## 👩‍💻 Author
+Swathy Chandran N 
+
